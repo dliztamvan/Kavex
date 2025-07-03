@@ -1,11 +1,12 @@
 [
-       {
-           "OWNER": "DlizzXmonzz",           
-           "ACCESS": true,
-           "USERNAME": "kavex silence",
-           "PASSWORD": "кавекс",
-           "BANNED": false,
-           "BAN_REASON": null,
-           "MAINTENANCE": false
-       }
+  {
+    "id": "6288214466258@s.whatsapp.net",
+    "name": "Kavex",
+    "premium": true
+  },
+  {
+    "id": "6283106875079@s.whatsapp.net",
+    "name": "Dlizz",
+    "premium": false
+  }
 ]
